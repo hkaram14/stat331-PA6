@@ -1,6 +1,5 @@
 ---
-title: "Practice Activity 6"
-author: "Mia, Hanna, Suhani"
+title: "PA6"
 format: html
 editor: visual
 embed-resources: true
