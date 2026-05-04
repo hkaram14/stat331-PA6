@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Mia Sahagian, Suhnani Kashyap, Hanna Karam"
 format: html
 editor: visual
 embed-resources: true
