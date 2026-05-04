@@ -1,6 +1,5 @@
 ---
 title: "Practice Activity 6"
-author: "Mia, Hanna, Suhani"
 format: html
 editor: visual
 embed-resources: true
